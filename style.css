@@ -284,15 +284,13 @@ html {
 .card__slide:nth-child(1):after {
   content: "";
   position: absolute;
- z-index: 1;
   top: 10%;
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("https://raw.githubusercontent.com/Azimolab/std_ld_2/master/assets/Asset%203.png");
+  
   background-size: 110% auto;
   background-position: center;
-  transform: scale(0.8);
   opacity: 0;
   -webkit-filter: contrast(150%);
           filter: contrast(150%);
