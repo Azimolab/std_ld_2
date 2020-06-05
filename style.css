@@ -284,7 +284,7 @@ html {
 .card__slide:nth-child(1):after {
   content: "";
   position: absolute;
- 
+ z-index: 2;
   top: 10%;
   left: 0;
   width: 100%;
