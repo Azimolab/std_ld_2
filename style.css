@@ -293,7 +293,7 @@ html {
   background-size: 110% auto;
   background-position: center;
   transform: scale(0.8);
-  opacity: 1;
+  opacity: 0;
   -webkit-filter: contrast(150%);
           filter: contrast(150%);
 }
